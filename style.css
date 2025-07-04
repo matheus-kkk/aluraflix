@@ -13,7 +13,7 @@ header {
 
 h1 {
     font-size: 30px;
-    border-bottom: double 5px rgb(255, 0, 0)
+    border-bottom: double 5px rgb(255, 0, 0);
     text-aling: center;
 }
 
@@ -25,6 +25,6 @@ p{
 iframe, video {
     display: block;
     margim: 0 auto;
-    width:80%;
+    width:100%;
     max-width: 700px;
 }
