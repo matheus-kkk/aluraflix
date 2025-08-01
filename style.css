@@ -1,8 +1,8 @@
 body {
-    background-color: blak;
+    background-color: black;
     color: rgb(255, 0, 0);
     font-family: *trebuchet MS* , *comic sans MS* ,CURSIVE;
-    MARGIM: 0;
+    MARGIN: 0;
 }
 
 header {
@@ -24,7 +24,7 @@ p{
 
 iframe, video {
     display: block;
-    margim: 0 auto;
+    margin: 0 auto;
     width: 85%;
     max-width: 730px;
 }
